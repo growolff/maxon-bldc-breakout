@@ -24,7 +24,7 @@ La necesidad de hacer esta pcb tiene dos orígenes:
 
 Por ahora, el circuito es el mínimo necesario para hacer funcionar el motor con el controlador. En las versiones posteriores se agregarán elementos de seguridad si es requerido.
 
-El software utlizado para dieseñar la pcb fue [eagle](https://www.autodesk.com/products/eagle/overview) y los arhivos .sch y .brd los puedes encontrar en la carpeta /cad
+El software utlizado para dieseñar la pcb fue [eagle](https://www.autodesk.com/products/eagle/overview) y los arhivos .sch y .brd los puedes encontrar en la carpeta [/cad](https://gitlab.com/growolff/maxon_bldc_pcb/-/tree/master/cad)
 
 <img src="img/eagle_sch.png" width="500" alt="esquemático de eagle"/>
 
